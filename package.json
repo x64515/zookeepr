@@ -20,5 +20,6 @@
   "homepage": "https://github.com/x64515/zookeepr#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
